@@ -5,4 +5,4 @@ everything you should know @ here
 
 ### list
 
-1. [多环境配置使用](./multi-env/.md)
+1. [多环境配置使用](./docs/multi-env.md)
